@@ -85,11 +85,7 @@ div.appendChild(deleteButton);
 
 //未完了リストに追加
 document.getElementById("imcomplete-list").appendChild(div);
-}
-
-;
-
-
+};
 
 document
  .getElementById("add-button")
